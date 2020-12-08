@@ -15,7 +15,7 @@ Hello there! I am Apratim Shukla, also known as Earthing in the virtual world. I
 - 🌱 I’m currently exploring cryptography
 - 💬 Talk to me about movies, philosophy, history and coding
 - 😄 Pronouns: He/His/Him
-- 📝 I am associated with [OWASP Student Chapter at VIT Chennai](https://owaspvit.com/)
+- 📝 I am the Chapter Lead of [OWASP Student Chapter at VIT Chennai](https://owaspvit.com/)
 - 👯 We can connect on [Discord](https://discord.gg/n7VxP6N) to discuss insane ideas
 - ⚡ Fun fact: I'm INTJ-T ☄️
 
