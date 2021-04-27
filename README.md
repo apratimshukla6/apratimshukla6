@@ -23,10 +23,10 @@ Hello there! I am Apratim Shukla, also known as Earthing in the virtual world. I
 
 ## 🎵 < Spotify />
 
-<table>
+<table width=100%>
   <tr>
-    <td><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ztsaqqojiy3usipqbvjwkranzm&cover_image=true&theme=default" height=400 width=100%></td>
-    <td><img src="https://quotes-github-readme.vercel.app/api?type=vertical"  display=block width=100% height=390 width=100%  alt="2"></td>
+    <td><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ztsaqqojiy3usipqbvjwkranzm&cover_image=true&theme=default" height=400 width=100% display=block></td>
+    <td><img src="https://quotes-github-readme.vercel.app/api?type=vertical"  display=block width=100% height=390 alt="2" display=block></td>
    </tr>
 </table>
 
