@@ -61,7 +61,7 @@ I am Apratim Shukla, also known as Earthing in the virtual world. I'm currently 
 
 ## 📈 < Statistics />
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=apratimshukla6&theme=onedark">
+<img src="https://github-profile-trophy.vercel.app/?username=apratimshukla6&theme=darkhub">
 </p>
 <table>
   <tr>
