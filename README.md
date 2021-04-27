@@ -2,7 +2,8 @@
 
 ## "The way to get started is to quit talking and begin doing." -Walt Disney 🚀
 
-Hello there! I am Apratim Shukla, also known as Earthing in the virtual world. I'm currently pursuing B.Tech in Electronics and Computer Engineering at VIT Chennai. I'm an open-source aficionado and relish collaborating on enthralling projects. Feel free to connect with me here:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hello+there!)](https://git.io/typing-svg)
+I am Apratim Shukla, also known as Earthing in the virtual world. I'm currently pursuing B.Tech in Electronics and Computer Engineering at VIT Chennai. I'm an open-source aficionado and relish collaborating on enthralling projects. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-apratimshukla6-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apratimshukla6/)](https://www.linkedin.com/in/apratimshukla6/)
 [![Instagram Badge](https://img.shields.io/badge/-apratimshukla6-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/apratimshukla6/)](https://instagram.com/apratimshukla6)
