@@ -16,7 +16,7 @@ I'm Apratim also known as Earthing in the virtual world. I'm a Master's in Compu
 - 🌱 I’m currently exploring cryptography
 - 💬 Talk to me about movies, philosophy, history and coding
 - 😄 Pronouns: He/His/Him
-- 📝 Ex-Chapter Lead of [OWASP Student Chapter at VIT Chennai](https://owaspvit.com/)
+- 📝 Ex-Chapter Lead of [OWASP Student Chapter at VIT Chennai](https://cyscomvit.com/)
 - 👯 We can connect on [Discord](https://discord.gg/n7VxP6N) to discuss insane ideas
 - ⚡ Fun fact: I'm INTJ-T ☄️
 - 🧮 Page Count: <img src="https://visitor-badge.laobi.icu/badge?page_id=apratimshukla6">
